@@ -75,7 +75,10 @@ It helps cricket analysts, fans, and data enthusiasts understand how teams, play
 ![IPL Overview Screenshot](./images/ipl_overview.png)  
 
 ### Team Profile Page  
-![Team Profile Screenshot](./images/team_profile.png)  
+![Team Profile Screenshot](./images/team_profile.png)
+
+### Download project from here.
+[Download Power BI File from Google Drive](https://drive.google.com/[your-link-here](https://drive.google.com/file/d/1n4Ayj9pqjVXAl499p2LOltJCCGr9rJp2/view?usp=sharing))
 
   
 
